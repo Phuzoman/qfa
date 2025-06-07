@@ -1,5 +1,4 @@
 entreat
 beseech
 petition
-entreat
 supplication
